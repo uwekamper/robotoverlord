@@ -1,0 +1,197 @@
+Timeout!
+Status code was: 642
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.754"
+>AT+HTTPACTION=0
+Status code was: 0
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+Connection problem, 3 times in a row, rebooting.
+$Id: BatteryMonitor.ino 871 2012-10-04 23:08:40Z uk $
+APN...............web.vodafone.de
+GPRS username.....
+GPRS password.....
+Servername........itfm-technik.de
+Port..............80
+Sleep........450
+Nagios hostname...uwe-batt
+Waiting 10 seconds ...
+/battery/host/uwe-batt/report_voltage/12.734
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+Connection problem, 3 times in a row, rebooting.
+$Id: BatteryMonitor.ino 871 2012-10-04 23:08:40Z uk $
+APN...............web.vodafone.de
+GPRS username.....
+GPRS password.....
+Servername........itfm-technik.de
+Port..............80
+Sleep........450
+Nagios hostname...uwe-batt
+Waiting 10 seconds ...
+/battery/host/uwe-batt/report_voltage/12.734
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 0
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+Connection problem, 3 times in a row, rebooting.
+$Id: BatteryMonitor.ino 871 2012-10-04 23:08:40Z uk $
+APN...............web.vodafone.de
+GPRS username.....
+GPRS password.....
+Servername........itfm-technik.de
+Port..............80
+Sleep........450
+Nagios hostname...uwe-batt
+Waiting 10 seconds ...
+/battery/host/uwe-batt/report_voltage/12.734
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+Connection problem, 3 times in a row, rebooting.
+$Id: BatteryMonitor.ino 871 2012-10-04 23:08:40Z uk $
+APN...............web.vodafone.de
+GPRS username.....
+GPRS password.....
+Servername........itfm-technik.de
+Port..............80
+Sleep........450
+Nagios hostname...uwe-batt
+Waiting 10 seconds ...
+/battery/host/uwe-batt/report_voltage/12.734
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
+>AT+SAPBR=1,1
+>AT+HTTPINIT
+>AT+HTTPPARA="URL","itfm-technik.de:80/battery/host/uwe-batt/report_voltage/12.734"
+>AT+HTTPACTION=0
+Status code was: 601
+>AT+HTTPREAD
+>AT+HTTPTERM
+done sending ...
+>AT+CSQ
+>AT+CGATT?
+>AT+SAPBR=3,1,"CONTYPE","GPRS"
+>AT+SAPBR=3,1,"APN","web.vodafone.de"
